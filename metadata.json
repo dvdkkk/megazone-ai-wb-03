@@ -1,0 +1,8 @@
+{
+  "name": "메가존클라우드 부트캠프(이원우)-AI보안",
+  "description": "Imported from GitHub: dvdkkk/megazone-ai-02000",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
