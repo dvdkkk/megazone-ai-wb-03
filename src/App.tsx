@@ -941,7 +941,7 @@ export default function App() {
                 <span className="sum-label">
                   <Clock className="icon-inline text-cyan" /> 교육 기간
                 </span>
-                <strong className="sum-val">984시간 · 약 6개월 (평일 09:00~18:00 · 2026년 9월 14일 개강)</strong>
+                <strong className="sum-val">984시간 · 약 6개월 (평일 09:00~18:00 · 2026년 9월 21일 개강)</strong>
               </div>
               <div className="summary-item">
                 <span className="sum-label">
